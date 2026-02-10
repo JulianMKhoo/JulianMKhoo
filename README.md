@@ -1,16 +1,14 @@
-## Hi there 👋
+❄️
+---
+**Jaratphong Meethamkaewkla (Julian) AI Infrastructure & Platform Engineer**
 
-<!--
-**JulianMKhoo/JulianMKhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System-Level Engineering:**  
+- Go  
+- Python  
+- C# (.NET Core)  
 
-Here are some ideas to get you started:
+**Core Focus:**  High-reliability distributed systems, Microservices, and AI Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:**  Previously architected critical  **Payment Microservices**  at  _Tidlor Enterprise_, handling high-concurrency SQL transactions. Now applying strict reliable systems principles to  **AI/ML Infrastructure**.
+
+🔭  **Current Work:**  Building Kubernetes Operators and CLI tools to prevent OOM kills in ML training pipelines.

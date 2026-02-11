@@ -1,6 +1,6 @@
 ❄️
 ---
-**Jaratphong Meethamkaewkla (Julian) AI Infrastructure & Platform Engineer**
+**Jaratphong Meethamkaewkla (Julian) Software Engineer (Platform)**
 
 **Languages and Tools:**  
 

@@ -2,6 +2,9 @@
 ---
 **Jaratphong Meethamkaewkla (Julian) Software Engineer (Platform)**
 
+**Background:**  
+Previously architected critical  **Payment Microservices**  at  _Tidlor Enterprise_, handling high-concurrency SQL transactions.
+
 **Languages and Tools:**  
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -28,6 +31,4 @@
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
 
-**Core Focus:**  High-reliability distributed systems, Microservices, and AI Infrastructure.
-
-**Background:**  Previously architected critical  **Payment Microservices**  at  _Tidlor Enterprise_, handling high-concurrency SQL transactions. Now applying strict reliable systems principles to  **AI/ML Infrastructure** (self-learning).
+***```Is there another us on this whole planet?```***

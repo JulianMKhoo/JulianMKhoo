@@ -31,4 +31,6 @@ Previously architected critical  **Payment Microservices**  at  _Tidlor Enterpri
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
 
+---
+
 ***```Is there another us on this whole planet?```***

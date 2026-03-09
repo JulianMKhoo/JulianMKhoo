@@ -2,8 +2,9 @@
 ---
 **Jaratphong Meethamkaewkla (Julian) Software Engineer (Platform)**
 
-**Background:**  
-Previously architected critical  **Payment Microservices**  at  _Tidlor Enterprise_, handling high-concurrency SQL transactions.
+**Background:** Previously architected critical  **Payment Microservices**  at  _Tidlor Enterprise_, handling high-concurrency SQL transactions.
+
+**Preference:** Fully Decentralized Distribution System
 
 **Languages and Tools:**  
 
@@ -27,9 +28,6 @@ Previously architected critical  **Payment Microservices**  at  _Tidlor Enterpri
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
-
-**Preference**
-Fully Decentralized Distribution System
 
 ---
 

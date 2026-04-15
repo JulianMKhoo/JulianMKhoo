@@ -1,10 +1,10 @@
 ❄️
 ---
-**Jaratphong Meethamkaewkla (Julian) Software Engineer (Platform)**
+**Jaratphong Meethamkaewkla (Julian) Software Engineer (System) full-time SCG**
 
 **Background:** Previously architected critical  **Payment Microservices**  at  _Tidlor Enterprise_, handling high-concurrency SQL transactions.
 
-**Preference:** Fully Decentralized Distribution System
+**Preference:** Distribution System & Emergant System
 
 **Languages and Tools:**  
 

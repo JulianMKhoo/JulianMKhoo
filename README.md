@@ -2,7 +2,7 @@
 ---
 **Jaratphong Meethamkaewkla (Julian) Full Stack Development**
 
-**Background:** Payment system, Enterprise ERP and Education web.
+**Background:** Payment system, Enterprise ERP and Educational web.
 
 **Languages and Tools:**  
 
